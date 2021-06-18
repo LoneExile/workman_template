@@ -1,6 +1,6 @@
 # WorkMan Template
 
-This is blank keyboard layout for custom in your language.
+This is blank keyboard layout come with Workman base keyboard layout(layout with command key) for custom in your language.
 
 ### example
 
