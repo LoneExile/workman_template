@@ -9,3 +9,9 @@ This is blank keyboard layout for custom in your language.
 ### How to use
 
 edit this file on [Ukelele](https://software.sil.org/ukelele/) key by key
+
+| Language                                                       |
+| -------------------------------------------------------------- |
+| [English(official)](https://github.com/workman-layout/Workman) |
+| Thai                                                           |
+| ...                                                            |
